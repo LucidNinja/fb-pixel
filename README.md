@@ -15,6 +15,7 @@ $fbpix = 'your-pixel-id-goes-here';
 3. Activate the plugin.
 
 
-### License
+## License
 This plugin is open sourced and licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 [Wake Up, Dreamer](https://wakeupdreamer.com.au) is not associated with Facebook in any way.

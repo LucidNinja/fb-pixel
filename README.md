@@ -8,7 +8,7 @@ It is a 'no frills' plugin with no admin screen and saves no data to the databas
 1. Simply add your Pixel ID to the `$fbpix` variable in fb-pixel.php like so:
 
 ```php
-$fbpox = 'your-pixel-id-goes-here'; 
+$fbpix = 'your-pixel-id-goes-here'; 
 ```
 
 2. Zip up the fb-pixel folder and upload to your Wordpress site's plugin page.
